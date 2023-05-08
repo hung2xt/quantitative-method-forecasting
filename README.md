@@ -5,4 +5,5 @@ In the supervised regression framework used for this case study, the weekly retu
   - Stocks: IBM (IBM); Alphabet (GOOGL)
   - Currency: USD/JPY; GBP/USD
   - Indices:S&P 500; Dow Jones; and VIX
+
 The dataset used for this case study is extracted from Yahoo Finance and the FRED website. In addition to predicting the stock price accurately, this case study will also demonstrate the infrastructure and framework for each step of time series and supervised regression–based modeling for stock price prediction. We will use the daily closing price from 2010 to 2022.
