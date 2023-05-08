@@ -1,6 +1,6 @@
-# quantitative-method-forecasting
+## quantitative-method-forecasting
 1. Using Supervised method to predict a stock price
-# Problem definition: 
+### Problem definition: 
 In the supervised regression framework used for this case study, the weekly return of
 Microsoft stock is the predicted variable. We need to understand what affects Micro‐
 soft stock price and incorporate as much information into the model. Out of correla‐
